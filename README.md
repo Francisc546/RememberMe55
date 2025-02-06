@@ -23,3 +23,6 @@ Narrative Writer - Filipe Tomé
 
 
 Future work - Improve the flaws from encountered in testing, alongside the design and development of the other stages.
+
+
+Developed with Unreal Engine 5.5
