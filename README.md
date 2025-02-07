@@ -1,4 +1,8 @@
 Eidolon prototype v1 (Currently in revision status for CHI 2025 student's game competition) - More info can be found here: https://www.youtube.com/watch?v=PbwCPxgXXg4 Last update 23-01-2025
+![1737639205217](https://github.com/user-attachments/assets/241ccd58-443e-4328-a9b5-fa0d75a47fb3)
+![1737639204636](https://github.com/user-attachments/assets/9f9f2153-c2cb-48eb-b8fd-b2a478d66f64)
+![1737639203635](https://github.com/user-attachments/assets/dfe598cf-75ef-45ba-a8e6-19a9961b69dc)
+![1737639204121](https://github.com/user-attachments/assets/8946ed2d-64e0-40c2-b434-6161bb18dfa9)
 
 Escape room prototype developed alongside my colleague Filipe Tomé, narrative writer and game designer.
 This project had the code name "Remember Me", started out as the idea of bringing to life the 5 stages of grief in a narrative first person game, each stage of grief would be a small escape room. 
