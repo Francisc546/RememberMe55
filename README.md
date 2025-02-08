@@ -30,3 +30,5 @@ Future work - Improve the flaws from encountered in testing, alongside the desig
 
 
 Developed with Unreal Engine 5.5
+
+Related projects (Satama Trailer : https://www.youtube.com/watch?v=PdkscGYUdJ8)
