@@ -1,4 +1,4 @@
-Eidolon prototype v1 (Currently in revision status for CHI 2025 student's game competition) - More info can be found here: https://www.youtube.com/watch?v=PbwCPxgXXg4 Last update 23-01-2025
+Eidolon prototype v1 (Accepted for CHI 2025 student's game competition) - More info can be found here: https://www.youtube.com/watch?v=PbwCPxgXXg4 Last update 23-01-2025
 ![1737639205217](https://github.com/user-attachments/assets/241ccd58-443e-4328-a9b5-fa0d75a47fb3)
 ![1737639204636](https://github.com/user-attachments/assets/9f9f2153-c2cb-48eb-b8fd-b2a478d66f64)
 ![1737639203635](https://github.com/user-attachments/assets/dfe598cf-75ef-45ba-a8e6-19a9961b69dc)
